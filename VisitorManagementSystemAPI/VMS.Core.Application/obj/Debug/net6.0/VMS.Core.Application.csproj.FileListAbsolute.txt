@@ -1,0 +1,15 @@
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\bin\Debug\net6.0\VMS.Core.Application.deps.json
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\bin\Debug\net6.0\VMS.Core.Application.dll
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\bin\Debug\net6.0\VMS.Core.Application.pdb
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\bin\Debug\net6.0\VMS.Core.Domain.dll
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\bin\Debug\net6.0\VMS.Core.Domain.pdb
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\VMS.Core.Application.csproj.AssemblyReference.cache
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\VMS.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\VMS.Core.Application.AssemblyInfoInputs.cache
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\VMS.Core.Application.AssemblyInfo.cs
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\VMS.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\VMS.Core.Application.csproj.CopyComplete
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\VMS.Core.Application.dll
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\refint\VMS.Core.Application.dll
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\VMS.Core.Application.pdb
+C:\Users\lbalakrishnan\source\repos\VisitorManagementSystemAPI\VMS.Core.Application\obj\Debug\net6.0\ref\VMS.Core.Application.dll
